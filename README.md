@@ -5,4 +5,4 @@ command you sent to the game.
 
 ## License
 
-`repeater` is released under the [0BSD](LICENSE.txt).
+`repeater` is released under the [0BSD](https://opensource.org/license/0bsd).
